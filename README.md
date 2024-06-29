@@ -1,1 +1,1 @@
-https://github.com/VyacheslavPomozov/ono-tebe-nado
+https://github.com/VyacheslavPomozov/slozhno-sosredotochitsya
