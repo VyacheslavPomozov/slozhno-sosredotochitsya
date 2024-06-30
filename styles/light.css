@@ -18,20 +18,5 @@
   --backgroung-image: url(../images/cover-image-light.png);
   --header-decor-switch: hidden;
   --header-hover: 1px solid rgba(50, 49, 45, 0.4);
-}
-
-.header__theme-menu-button:hover {
-  outline: var(--header-hover);
-}
-
-.header__theme-menu-button:focus-visible {
-  border-bottom: 1px solid var(--section-title-color, #353430);
-}
-
-.main__link:hover {
-  border-bottom: 1px solid var(--text-color, #f1b2ce);
-}
-
-.main__link:focus-visible {
-  outline: 1px solid var(--text-color, #353430);
+  --title-decor-text-color: #353430;
 }
